@@ -1,0 +1,19 @@
+.yellow img
+{
+height: 100%;
+width: 100%;
+}
+
+.contact-us img{
+height: 50px;
+    width: 60px;
+}
+
+.contact-us ul{
+list-style: none;
+
+}
+.contact-us li{
+display:inline;
+}
+
