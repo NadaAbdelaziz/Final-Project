@@ -1,12 +1,94 @@
-.yellow img
+.homepage
 {
-height: 100%;
-width: 100%;
+	background-color: #F8F8F8;
 }
 
-.contact-us img{
-height: 50px;
-    width: 60px;
+
+.yellow img
+{
+height: 725px;
+width: 1518px;
+}
+
+
+.about-us h2 
+{
+	color: #cc0000;
+    font-family: Georgia;
+    font: bold;
+    font-size: 450%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+
+.about-us-nada img
+{
+	margin-left: 100px;
+	margin-bottom: 20px;
+    margin-right: 50px;
+	height: 55%;
+    width: 55%;
+    border-radius: 50%
+}
+
+.about-us-nada p 
+{
+	margin-top: 50px;
+	margin-right: 50px;
+	font-family: Georgia;
+    font: bold;
+    font-size: 200%;
+}
+
+
+.about-us-farida img
+{
+	margin-right: 50px;
+	margin-left: 50px;
+    height: 50%;
+    width: 55%;
+    border-radius: 50%
+}
+
+.about-us-farida p
+{
+   	margin-top: 70px;
+	
+	margin-left: 100px;
+	font-family: Georgia;
+    font: bold;
+    font-size: 200%;
+}
+
+
+.about-us-conclusion p
+{
+	margin-top: 20px;
+	margin-right: 75px;
+	margin-left: 75px;
+	font-family: Georgia;
+    font: bold;
+    font-size: 200%;
+}
+
+
+.cuisines h2
+{
+	color: #cc0000;
+    font-family: Georgia;
+    font: bold;
+    font-size: 450%;
+    margin: auto;
+    text-align: center;
+    position: relative;	
+}
+
+
+.contact-us img
+{
+    height: 100px;
+    width: 100px;
 }
 
 .contact-us ul{
@@ -15,5 +97,45 @@ list-style: none;
 }
 .contact-us li{
 display:inline;
+margin-right: 50px;
 }
 
+.contact-us 
+{
+	color: #cc0000;
+    font-family: Georgia;
+
+    margin: auto;
+    text-align: center;
+    position: relative;	
+}
+
+.contact-us h2
+{
+	font: bold;
+    font-size: 450%;
+}
+
+.references h2
+{
+	color: #cc0000;
+    font-family: Georgia;
+    font: bold;
+    font-size: 450%;
+    margin: auto;
+    text-align: center;
+    position: relative;	
+}
+
+.references ul
+{
+	list-style-type: none;
+}
+
+.references li
+{
+	font-size: 25px;
+	margin: auto;
+    text-align: center;
+    position: relative;	
+}
